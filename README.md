@@ -1,5 +1,9 @@
 <h1 align="center">Code. Repeat. Evolve.</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=435&lines=Пишу+код...;Тестирую+моды...;Запускаю+кошачью+революцию...;Мои скрипты мурлычат...;У меня баг. Но он мне нравится!" />
+</p>
+
 <table align="center" width="100%" cellpadding="10" style="table-layout: fixed; font-size: 18px; line-height: 1.5;">
   <tr>
     <td width="70%" valign="middle" style="padding-right: 10px;">
@@ -79,9 +83,6 @@
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wronguide&theme=flat" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=435&lines=Пишу+код...;Тестирую+моды...;Запускаю+кошачью+революцию..." />
 </p>
 
 ---
