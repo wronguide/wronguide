@@ -1,8 +1,6 @@
 <h1 align="center">Code. Repeat. Evolve.</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=435&lines=Пишу+код...;Тестирую+моды...;Запускаю+кошачью+революцию...;Мои скрипты мурлычат...;У меня баг. Но он мне нравится!" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Пишу+код...;Тестирую+моды...;Запускаю+кошачью+революцию...;Мои+скрипты+мурлычат...;У+меня+баг.+Но+он+мне+нравится!)](https://git.io/typing-svg)
 
 <table align="center" width="100%" cellpadding="10" style="table-layout: fixed; font-size: 18px; line-height: 1.5;">
   <tr>
