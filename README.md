@@ -81,7 +81,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wronguide&theme=flat" alt="GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=435&lines=Пишу+код...;Тестирую+моды...;Запускаю+кошачью+революцию..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7768E&width=435&lines=Пишу+код...;Тестирую+моды...;Запускаю+кошачью+революцию..." />
 </p>
 
 ---
